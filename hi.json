@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "[HI] Loading...",
+    "error": "[HI] An error occurred",
+    "save": "[HI] Save",
+    "cancel": "[HI] Cancel",
+    "submit": "[HI] Submit"
+  },
+  "nav": {
+    "findTherapist": "[HI] Find a Therapist",
+    "login": "[HI] Log In",
+    "signup": "[HI] Sign Up",
+    "dashboard": "[HI] Dashboard",
+    "logout": "[HI] Log Out"
+  },
+  "auth": {
+    "fullName": "[HI] Full Name",
+    "email": "[HI] Email Address",
+    "phone": "[HI] Phone Number (10 digits)",
+    "password": "[HI] Password",
+    "state": "[HI] State",
+    "preferredLanguage": "[HI] Preferred Language",
+    "signupClient": "[HI] Complete Sign Up",
+    "signupTherapist": "[HI] Register as Therapist"
+  },
+  "dashboard": {
+    "welcome": "[HI] Welcome",
+    "upcomingSessions": "[HI] Upcoming Sessions",
+    "moodJournal": "[HI] Mood Journal",
+    "bookNew": "[HI] Book New Session"
+  },
+  "mood": {
+    "excellent": "[HI] Excellent",
+    "good": "[HI] Good",
+    "okay": "[HI] Okay",
+    "poor": "[HI] Poor",
+    "very_poor": "[HI] Very Poor",
+    "logMood": "[HI] Log Mood",
+    "notePlaceholder": "[HI] How are you feeling today?"
+  },
+  "therapistList": {
+    "title": "[HI] Find Your Perfect Match",
+    "subtitle": "[HI] Browse through our directory of licensed, vetted professionals.",
+    "filters": "[HI] Filters",
+    "specialization": "[HI] Specialization",
+    "language": "[HI] Language",
+    "maxFee": "[HI] Max Fee (₹)",
+    "rating": "[HI] Minimum Rating",
+    "bookNow": "[HI] Book Now",
+    "feePerSession": "[HI] per session"
+  },
+  "booking": {
+    "title": "[HI] Book a Session",
+    "selectDate": "[HI] Select Date",
+    "selectTime": "[HI] Select Time",
+    "sessionType": "[HI] Session Type",
+    "chat": "[HI] Live Chat",
+    "video": "[HI] Video Call",
+    "payWithRazorpay": "[HI] Pay with Razorpay",
+    "amountToPay": "[HI] Amount to Pay",
+    "platformFee": "[HI] Includes 20% platform fee"
+  }
+}

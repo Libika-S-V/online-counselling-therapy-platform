@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "[MR] Loading...",
+    "error": "[MR] An error occurred",
+    "save": "[MR] Save",
+    "cancel": "[MR] Cancel",
+    "submit": "[MR] Submit"
+  },
+  "nav": {
+    "findTherapist": "[MR] Find a Therapist",
+    "login": "[MR] Log In",
+    "signup": "[MR] Sign Up",
+    "dashboard": "[MR] Dashboard",
+    "logout": "[MR] Log Out"
+  },
+  "auth": {
+    "fullName": "[MR] Full Name",
+    "email": "[MR] Email Address",
+    "phone": "[MR] Phone Number (10 digits)",
+    "password": "[MR] Password",
+    "state": "[MR] State",
+    "preferredLanguage": "[MR] Preferred Language",
+    "signupClient": "[MR] Complete Sign Up",
+    "signupTherapist": "[MR] Register as Therapist"
+  },
+  "dashboard": {
+    "welcome": "[MR] Welcome",
+    "upcomingSessions": "[MR] Upcoming Sessions",
+    "moodJournal": "[MR] Mood Journal",
+    "bookNew": "[MR] Book New Session"
+  },
+  "mood": {
+    "excellent": "[MR] Excellent",
+    "good": "[MR] Good",
+    "okay": "[MR] Okay",
+    "poor": "[MR] Poor",
+    "very_poor": "[MR] Very Poor",
+    "logMood": "[MR] Log Mood",
+    "notePlaceholder": "[MR] How are you feeling today?"
+  },
+  "therapistList": {
+    "title": "[MR] Find Your Perfect Match",
+    "subtitle": "[MR] Browse through our directory of licensed, vetted professionals.",
+    "filters": "[MR] Filters",
+    "specialization": "[MR] Specialization",
+    "language": "[MR] Language",
+    "maxFee": "[MR] Max Fee (₹)",
+    "rating": "[MR] Minimum Rating",
+    "bookNow": "[MR] Book Now",
+    "feePerSession": "[MR] per session"
+  },
+  "booking": {
+    "title": "[MR] Book a Session",
+    "selectDate": "[MR] Select Date",
+    "selectTime": "[MR] Select Time",
+    "sessionType": "[MR] Session Type",
+    "chat": "[MR] Live Chat",
+    "video": "[MR] Video Call",
+    "payWithRazorpay": "[MR] Pay with Razorpay",
+    "amountToPay": "[MR] Amount to Pay",
+    "platformFee": "[MR] Includes 20% platform fee"
+  }
+}

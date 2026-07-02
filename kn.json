@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "[KN] Loading...",
+    "error": "[KN] An error occurred",
+    "save": "[KN] Save",
+    "cancel": "[KN] Cancel",
+    "submit": "[KN] Submit"
+  },
+  "nav": {
+    "findTherapist": "[KN] Find a Therapist",
+    "login": "[KN] Log In",
+    "signup": "[KN] Sign Up",
+    "dashboard": "[KN] Dashboard",
+    "logout": "[KN] Log Out"
+  },
+  "auth": {
+    "fullName": "[KN] Full Name",
+    "email": "[KN] Email Address",
+    "phone": "[KN] Phone Number (10 digits)",
+    "password": "[KN] Password",
+    "state": "[KN] State",
+    "preferredLanguage": "[KN] Preferred Language",
+    "signupClient": "[KN] Complete Sign Up",
+    "signupTherapist": "[KN] Register as Therapist"
+  },
+  "dashboard": {
+    "welcome": "[KN] Welcome",
+    "upcomingSessions": "[KN] Upcoming Sessions",
+    "moodJournal": "[KN] Mood Journal",
+    "bookNew": "[KN] Book New Session"
+  },
+  "mood": {
+    "excellent": "[KN] Excellent",
+    "good": "[KN] Good",
+    "okay": "[KN] Okay",
+    "poor": "[KN] Poor",
+    "very_poor": "[KN] Very Poor",
+    "logMood": "[KN] Log Mood",
+    "notePlaceholder": "[KN] How are you feeling today?"
+  },
+  "therapistList": {
+    "title": "[KN] Find Your Perfect Match",
+    "subtitle": "[KN] Browse through our directory of licensed, vetted professionals.",
+    "filters": "[KN] Filters",
+    "specialization": "[KN] Specialization",
+    "language": "[KN] Language",
+    "maxFee": "[KN] Max Fee (₹)",
+    "rating": "[KN] Minimum Rating",
+    "bookNow": "[KN] Book Now",
+    "feePerSession": "[KN] per session"
+  },
+  "booking": {
+    "title": "[KN] Book a Session",
+    "selectDate": "[KN] Select Date",
+    "selectTime": "[KN] Select Time",
+    "sessionType": "[KN] Session Type",
+    "chat": "[KN] Live Chat",
+    "video": "[KN] Video Call",
+    "payWithRazorpay": "[KN] Pay with Razorpay",
+    "amountToPay": "[KN] Amount to Pay",
+    "platformFee": "[KN] Includes 20% platform fee"
+  }
+}
